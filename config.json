@@ -12,7 +12,7 @@
       "duration": 0,
       "once": false,
       "enabled": true,
-      "targets": [11105856278]
+      "targets": [8396392068]
     },
     {
       "id": "ban-falso-001",
@@ -25,7 +25,7 @@
       "duration": 0,
       "once": false,
       "enabled": false,
-      "targets": [11105856278]
+      "targets": [8396392068]
     },
     {
       "id": "warn-info-001",
